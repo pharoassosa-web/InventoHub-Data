@@ -1,1 +1,48 @@
-[ { "id": "101", "title": "Mini Electric Motor Boat from Plastic Bottle", "student_name": "Kidus Solomon", "student_grade": "Grade 10", "student_avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61", "views": "1.2k views", "duration": "03:45", "category": "Science", "thumbnail_url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758", "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", "likes": "210", "warning": "Be careful when cutting the plastic bottle with blades!" }, { "id": "102", "title": "Hydraulic Robotic Arm using Syringes", "student_name": "Beti Hailu", "student_grade": "Grade 9", "student_avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb", "views": "850 views", "duration": "05:12", "category": "Tech", "thumbnail_url": "https://images.unsplash.com/photo-1518770660439-4636190af475", "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4", "likes": "145", "warning": "Use water carefully to avoid spilling on your workplace." } ]
+[
+  {
+    "id": "101",
+    "title": "Mini Electric Motor Boat from Plastic Bottle",
+    "student_name": "Kidus Solomon",
+    "student_grade": "Grade 10",
+    "student_avatar": "https:\/\/images.unsplash.com\/photo-1570295999919-56ceb5ecca61",
+    "views": "1.2k views",
+    "duration": "03:45",
+    "category": "Science",
+    "thumbnail_url": "https:\/\/images.unsplash.com\/photo-1581092160607-ee22621dd758",
+    "video_url": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4",
+    "likes": "210",
+    "warning": "Be careful when cutting the plastic bottle with blades!"
+  },
+  {
+    "id": "102",
+    "title": "Hydraulic Robotic Arm using Syringes",
+    "student_name": "Beti Hailu",
+    "student_grade": "Grade 9",
+    "student_avatar": "https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb",
+    "views": "850 views",
+    "duration": "05:12",
+    "category": "Tech",
+    "thumbnail_url": "https:\/\/images.unsplash.com\/photo-1518770660439-4636190af475",
+    "video_url": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/ElephantsDream.mp4",
+    "likes": "145",
+    "warning": "Use water carefully to avoid spilling on your workplace."
+  },
+  {
+    "id": "1789349669988",
+    "video_url": "https:\/\/raw.githubusercontent.com\/pharoassosa-web\/InventoHub-Data\/main\/videos_media\/1789349651654_eea145efd342efdabe6cc9e804873639.mp4",
+    "author": "babi ከ Gread 9",
+    "student_name": "babi ከ Gread 9",
+    "likes": "0",
+    "title": "WiFi hacking",
+    "category": "#viral #hacking",
+    "thumbnail_url": "https:\/\/images.unsplash.com\/photo-1581092160607-ee22621dd758",
+    "duration": "New",
+    "views": "1 view",
+    "student_grade": "Creator",
+    "student_avatar": "https:\/\/images.unsplash.com\/photo-1535713875002-d1d0cf377fde",
+    "warning": "Take care while creating!",
+    "materials": [
+      "use"
+    ]
+  }
+]
